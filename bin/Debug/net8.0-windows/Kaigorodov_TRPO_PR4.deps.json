@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kaigorodov_TRPO_PR4/1.0.0": {
+        "runtime": {
+          "Kaigorodov_TRPO_PR4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kaigorodov_TRPO_PR4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
